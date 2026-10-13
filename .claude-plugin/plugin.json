@@ -3,8 +3,21 @@
   "displayName": "Motex",
   "version": "0.1.0",
   "description": "Sigue tus causas del Poder Judicial de Chile desde Claude: registra una causa por su RIT, ponte al día con lo que pasó en tu cartera, prepara audiencias y deja las tareas y plazos en Motex.",
-  "author": { "name": "Motex", "url": "https://motex.ai", "email": "contacto@motex.ai" },
+  "author": {
+    "name": "Motex",
+    "url": "https://motex.ai",
+    "email": "contacto@motex.ai"
+  },
   "homepage": "https://motex.ai/conectar",
+  "privacyPolicyUrl": "https://motex.ai/es/privacidad",
   "license": "MIT",
-  "keywords": ["legal", "chile", "pjud", "causas", "abogados", "litigios"]
+  "keywords": [
+    "legal",
+    "chile",
+    "pjud",
+    "causas",
+    "abogados",
+    "litigios"
+  ],
+  "icon": ".claude-plugin/icon.png"
 }
