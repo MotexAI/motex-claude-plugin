@@ -1,0 +1,12 @@
+{
+  "name": "motex",
+  "owner": { "name": "Motex", "email": "contacto@motex.ai" },
+  "description": "Los plugins de Motex para Claude: tus causas del Poder Judicial de Chile en la conversación.",
+  "plugins": [
+    {
+      "name": "motex",
+      "source": "./",
+      "description": "Sigue tus causas del Poder Judicial de Chile desde Claude."
+    }
+  ]
+}
