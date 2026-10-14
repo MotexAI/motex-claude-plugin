@@ -9,7 +9,7 @@ description: Úsala cuando una herramienta de Motex responda que el plan llegó 
 
 Quien conecta Motex desde su asistente sin ser cliente parte con el plan gratis:
 
-- **Hasta 3 causas registradas.** Una causa que el PJUD no encontró no cuenta.
+- **Hasta 10 causas registradas.** Una causa que el PJUD no encontró no cuenta.
 - **Las causas se revisan en el PJUD cada 7 días.**
 - **Un cupo mensual para leer documentos escaneados.** Los documentos con texto se siguen leyendo cuando el cupo se agota; el cupo se renueva el primer día de cada mes.
 

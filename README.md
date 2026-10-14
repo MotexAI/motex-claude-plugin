@@ -4,7 +4,7 @@ Motex sigue tus causas del Poder Judicial de Chile (PJUD) y este plugin lo trae 
 
 ## Qué incluye
 
-- **Conector de Motex** (`https://legal.motex.ai/api/mcp`): al conectarlo, entras con tu cuenta de Google. Si todavía no usas Motex, se crea tu espacio con el plan gratis (hasta 3 causas). Si tu estudio ya usa Motex, entras a su cartera.
+- **Conector de Motex** (`https://legal.motex.ai/api/mcp`): al conectarlo, entras con tu cuenta de Google. Si todavía no usas Motex, se crea tu espacio con el plan gratis (hasta 10 causas). Si tu estudio ya usa Motex, entras a su cartera.
 - **Skills:**
   - `seguir-causa`: busca, registra y explica una causa por su RIT.
   - `ponerse-al-dia`: lo urgente, lo que se movió y lo pendiente de tu cartera.
