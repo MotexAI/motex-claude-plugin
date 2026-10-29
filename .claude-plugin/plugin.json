@@ -1,8 +1,8 @@
 {
   "name": "motex",
   "displayName": "Motex",
-  "version": "0.1.0",
-  "description": "Sigue tus causas del Poder Judicial de Chile desde Claude: registra una causa por su RIT, ponte al día con lo que pasó en tu cartera, prepara audiencias y deja las tareas y plazos en Motex.",
+  "version": "0.1.1",
+  "description": "Track your Chilean court cases (PJUD) from Claude: register a case by its docket number, catch up on your portfolio, prepare hearings and keep tasks and deadlines in Motex. / Sigue tus causas del Poder Judicial de Chile desde Claude.",
   "author": {
     "name": "Motex",
     "url": "https://motex.ai",
@@ -17,7 +17,10 @@
     "pjud",
     "causas",
     "abogados",
-    "litigios"
+    "litigios",
+    "courts",
+    "lawyers",
+    "litigation"
   ],
   "icon": ".claude-plugin/icon.png"
 }
